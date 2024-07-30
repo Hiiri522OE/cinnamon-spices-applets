@@ -24,7 +24,7 @@ msgstr "Ruudunkaappaus"
 
 #: applet.js:33
 msgid "Current Window"
-msgstr "Nykyinen ikkuna"
+msgstr "Aktiivinen ikkuna"
 
 #: applet.js:38
 msgid "Selected Area"
@@ -36,15 +36,15 @@ msgstr "Koko näyttö"
 
 #: applet.js:46
 msgid "1 Second Delay"
-msgstr "1 s viive"
+msgstr "Yhden sekunnin viive"
 
 #: applet.js:50
 msgid "3 Second Delay"
-msgstr "3 s viive"
+msgstr "Kolmen sekunnin viive"
 
 #: applet.js:54
 msgid "5 Second Delay"
-msgstr "5 s viive"
+msgstr "Viiden sekunnin viive"
 
 #: applet.js:61
 msgid "Record Screencast"
@@ -96,19 +96,19 @@ msgstr "Ota tilannekuva tai tallenna työpöytää"
 
 #: applet.js:124
 msgid "Pictures Folder"
-msgstr "Kuvat kansio"
+msgstr "Kuvat-kansio"
 
 #: applet.js:130
 msgid "Videos Folder"
-msgstr "Videot kansio"
+msgstr "Videot-kansio"
 
 #. metadata.json->description
 msgid ""
 "Take A Snapshot Or Record Your Desktop (recording requires the packages "
 "ffmpeg, xdotool & x11-utils to be installed)"
 msgstr ""
-"Ota tilannekuva tai tallenna työpöytää (tallennus vaatii ffmpeg, "
-"xdotool ja x11-utils -pakettien asennuksen)"
+"Ota tilannekuva tai tallenna työpöytää (tallennus vaatii ffmpeg-, "
+"xdotool- ja x11-utils -pakettien asennuksen)"
 
 #. metadata.json->name
 msgid "ScreenShot+Record Desktop"
