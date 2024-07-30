@@ -20,11 +20,11 @@ msgstr ""
 
 #: applet.js:426
 msgid "This is your own list of Categories and Radio Stations."
-msgstr "Tämä on sinun oma lista musiikista ja radioasemista."
+msgstr "Tämä on sinun oma listasi musiikista ja radioasemista."
 
 #: applet.js:427
 msgid "You can add more using the [+] button."
-msgstr "Voit lisätä lisää [+] painikkeella."
+msgstr "Voit lisätä lisää kuunneltavaa [+]-painikkeella."
 
 #: applet.js:428
 msgid "For a category, fill in only its name; leave the other fields empty."
@@ -54,7 +54,7 @@ msgid ""
 "To search for one of your stations, click on the list and start writing its "
 "name."
 msgstr ""
-"Jos haluat etsiä radioasemaa, paina radiolistaa ja kirjoita aseman nimi."
+"Jos haluat etsiä radioasemaa, paina radiolistaa ja kirjoita haluamasi aseman nimi."
 
 #: applet.js:433
 msgid ""
